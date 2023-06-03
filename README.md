@@ -4,6 +4,16 @@ This project aims to perform customer segmentation analysis on an E-commerce dat
 ### Dataset Information:
 The data was collected from a well known E-commerce website over a
 period of time based on the customer’s search profile.
+
+    Variable Description:
+    Column               Description
+    Cust_ID              Unique numbering for customers
+    Gender               Gender of the customer
+    Orders               Number of orders placed by each customer in the past
+
+    Remaining 35 features (brands) contains the number of times
+    customers have searched them
+
 ### PERCENTAGE OF GENDER
 ![Screenshot 2023-06-03 122358](https://github.com/SRIDHAR3131/E-commerce-Customer-Segmentation/assets/68391060/874c512d-2784-459d-a4fa-79b17f49712c)
 
