@@ -2,7 +2,7 @@
 This project aims to perform customer segmentation analysis on an E-commerce dataset using the K-means clustering algorithm. The goal is to identify the optimal number of clusters (k) based on the maximum silhouette score and uncover purchasing patterns among customers.
 
 ### Dataset Information:
-The data was collected from a well known e-commerce website over a
+The data was collected from a well known E-commerce website over a
 period of time based on the customer’s search profile.
 ### PERCENTAGE OF GENDER
 ![Screenshot 2023-06-03 122358](https://github.com/SRIDHAR3131/E-commerce-Customer-Segmentation/assets/68391060/874c512d-2784-459d-a4fa-79b17f49712c)
